@@ -1,0 +1,4 @@
+app:
+  name: Tech Interface - Swagger Tutorial
+server:
+  port: 8091
