@@ -5,4 +5,4 @@ server:
 
 
 spring:
-  profile-testing-key: techinterface - no profiles set  .
+  profile-testing-key: techinterface - stage profiles is set  .
